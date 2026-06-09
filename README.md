@@ -2,6 +2,7 @@
 ## Primer parcial
 
 - [Reto1](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/reto1.java)
+- [Reto 17](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Reto17.java)
 -[Pizza](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/pizzeria.java)
 -[Fizzbuzz](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Fizzbuzz.java)
 -[Fibonacci](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Fibonacci.java)
