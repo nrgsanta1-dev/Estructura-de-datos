@@ -12,4 +12,5 @@
 - [Funciones P3](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Main.java)
 - [Funciones P4](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/volumen.java)
 - [Beca](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/arraylist.java)
-_[Pilasycolas](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Pilasypares.java)
+- [Pilasycolas](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Pilasypares.java)
+- 
