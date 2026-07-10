@@ -16,6 +16,7 @@
 - [Filapersona](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Filapersonas.java)
 - [Perro](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Perro.java) Ejercicio: Clase Perro
 - ##Segundo Parcial
+- [Cuadro comparativo](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/HUB.jpeg)
 - [Nodo](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Nodo.java)
 - [ListaEnlazada](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/ListaEnlazada.java)
 - [ListaEnlazadaBasica](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/ListaEnlazada.java)
