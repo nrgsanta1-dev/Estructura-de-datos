@@ -22,3 +22,6 @@
 - [ListaEnlazadaBasica](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/ListaEnlazada.java)
 - [ListaEnlazadaPri](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/Listaenlazadapri.java)
 - [PrincipalLista](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/principalLista.java)
+- [NodoDoble](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/NodoDoble.java)
+- [ListaDobleEnlazada](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/ListaDobleEnlazada.java)
+- [PrincipalListaDoble](https://github.com/nrgsanta1-dev/Estructura-de-datos/blob/main/PrincipalListaDoble.java)
